@@ -1,0 +1,10 @@
+{
+  "name": "test_yams",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "vitest": "^3.2.4"
+  }
+}
